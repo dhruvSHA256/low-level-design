@@ -1,0 +1,17 @@
+-DDHRUV
+-I/home/dhruv/.local/include/
+-O2
+-Wall
+-Wcast-align
+-Wcast-qual
+-Wconversion
+-Wduplicated-cond
+-Wextra
+-Wfloat-equal
+-Wlogical-op
+-Wno-sign-conversion
+-Wno-unused-result
+-Wshadow
+-Wshift-overflow
+-fsanitize=address,undefined
+-std=c++17
